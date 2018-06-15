@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dmrf/文档/Algorithms/Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dmrf/文档/Algorithms/Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dmrf/文档/Algorithms/Code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Code">
+				<Option output="/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dmrf/文档/Algorithms/Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Code"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Code/fast">
+				<Option output="/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dmrf/文档/Algorithms/Code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 Code/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/dmrf/文档/Algorithms/Code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/main.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/分治/BinarySearchRec.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/分治/MaxMin.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/分治/MergeSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/分治/QuickSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/分治/Select.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/动态规划/Floyd.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/动态规划/Knapsack.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/动态规划/Lcs.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/动态规划/Matchain.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/回溯算法/8QUEENS.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/回溯算法/BackTrackRec.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/回溯算法/ColorItre.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/回溯算法/ColorRec.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/Delete.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/DeleteMax.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/HeapSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/Insert.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/SIFT-DOWN.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/SIFT-UP.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/堆和不相交集数据结构——堆/makeheap.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/归纳法/Experc.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/归纳法/Horner.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/归纳法/MAJORITY.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/归纳法/exp.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/算法分析基本概念/Binarysearch.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/算法分析基本概念/BottomUpSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/算法分析基本概念/InsertionSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/算法分析基本概念/Linearsearch.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/算法分析基本概念/Merge.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/算法分析基本概念/SelectionSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/随机算法/RandomQuickSort.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/dmrf/文档/Algorithms/Code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

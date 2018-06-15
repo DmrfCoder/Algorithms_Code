@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Code.dir/main.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/SIFT-UP.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/SIFT-DOWN.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/Insert.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/Delete.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/DeleteMax.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/makeheap.cpp.o"
+  "CMakeFiles/Code.dir/堆和不相交集数据结构——堆/HeapSort.cpp.o"
+  "CMakeFiles/Code.dir/归纳法/Experc.cpp.o"
+  "CMakeFiles/Code.dir/归纳法/exp.cpp.o"
+  "CMakeFiles/Code.dir/归纳法/Horner.cpp.o"
+  "CMakeFiles/Code.dir/归纳法/MAJORITY.cpp.o"
+  "CMakeFiles/Code.dir/分治/MaxMin.cpp.o"
+  "CMakeFiles/Code.dir/分治/BinarySearchRec.cpp.o"
+  "CMakeFiles/Code.dir/分治/MergeSort.cpp.o"
+  "CMakeFiles/Code.dir/分治/Select.cpp.o"
+  "CMakeFiles/Code.dir/分治/QuickSort.cpp.o"
+  "CMakeFiles/Code.dir/动态规划/Lcs.cpp.o"
+  "CMakeFiles/Code.dir/回溯算法/ColorRec.cpp.o"
+  "CMakeFiles/Code.dir/回溯算法/ColorItre.cpp.o"
+  "CMakeFiles/Code.dir/回溯算法/8QUEENS.cpp.o"
+  "CMakeFiles/Code.dir/回溯算法/BackTrackRec.cpp.o"
+  "CMakeFiles/Code.dir/动态规划/Matchain.cpp.o"
+  "CMakeFiles/Code.dir/动态规划/Floyd.cpp.o"
+  "CMakeFiles/Code.dir/动态规划/Knapsack.cpp.o"
+  "CMakeFiles/Code.dir/算法分析基本概念/Linearsearch.cpp.o"
+  "CMakeFiles/Code.dir/算法分析基本概念/Binarysearch.cpp.o"
+  "CMakeFiles/Code.dir/算法分析基本概念/Merge.cpp.o"
+  "CMakeFiles/Code.dir/算法分析基本概念/SelectionSort.cpp.o"
+  "CMakeFiles/Code.dir/算法分析基本概念/InsertionSort.cpp.o"
+  "CMakeFiles/Code.dir/算法分析基本概念/BottomUpSort.cpp.o"
+  "CMakeFiles/Code.dir/随机算法/RandomQuickSort.cpp.o"
+  "Code.pdb"
+  "Code"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Code.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
